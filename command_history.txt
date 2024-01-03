@@ -1,0 +1,20 @@
+    1  cat > pets
+    2  cat > pack
+    3  cat pets pack > animal
+    4  cat animal
+    5  mv animal man's_friends
+
+    6  mv animal mans_friends
+    7  mkdir test_directory
+    8  mv mans_friends test_directory/
+    9  apt-cache madison mysql-server
+   10  apt-cache madison mysql-server-8.0 
+   11  sudo add-apt-repository 'deb http://repo.mysql.com/apt/ubuntu/ bionic mysql-8.0'
+   12  sudo apt update 
+   13  sudo nano /etc/apt/sources.list
+   14  sudo apt install mysql-server
+   15  cd Загрузки/
+   16  sudo dpkg -i google-chrome-stable_current_amd64.deb 
+   17  sudo dpkg -r google-chrome-stable_current_amd64.deb 
+   18  sudo dpkg -r google-chrome-stable 
+   19  history > command_history.txt
