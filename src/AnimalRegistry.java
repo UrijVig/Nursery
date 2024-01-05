@@ -1,6 +1,7 @@
 import Model.*;
-import Model.Pack.List.*;
-import Model.Pets.List.*;
+import Model.AnimalClasses.Animal;
+import Model.AnimalClasses.Pack.List.*;
+import Model.AnimalClasses.Pets.List.*;
 
 import java.util.*;
 

@@ -1,6 +1,6 @@
-package Model.Pack.List;
+package Model.AnimalClasses.Pack.List;
 
-import Model.Pack.Pack;
+import Model.AnimalClasses.Pack.Pack;
 
 public class Camel extends Pack {
     public Camel(String name) {

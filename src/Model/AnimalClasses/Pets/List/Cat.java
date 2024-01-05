@@ -1,6 +1,6 @@
-package Model.Pets.List;
+package Model.AnimalClasses.Pets.List;
 
-import Model.Pets.Pets;
+import Model.AnimalClasses.Pets.Pets;
 
 public class Cat extends Pets {
     public Cat(String name) {

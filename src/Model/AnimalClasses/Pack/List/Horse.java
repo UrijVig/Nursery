@@ -1,6 +1,6 @@
-package Model.Pack.List;
+package Model.AnimalClasses.Pack.List;
 
-import Model.Pack.Pack;
+import Model.AnimalClasses.Pack.Pack;
 
 public class Horse extends Pack {
     public Horse(String name) {
